@@ -1,4 +1,4 @@
-# React Frontend Project
+# BookBuz React Frontend Project
 
 This project is a React-based frontend application featuring a multi-page setup managed by `react-router-dom`. It includes components for listing books, viewing book details, and managing pages to read.
 
